@@ -1,0 +1,60 @@
+.section1 {
+    border: 2px solid black;
+    padding: 10px;
+    width: 50%;
+    background-color: rgba(58, 128, 240, 0.3);
+    margin: 0 auto;
+}
+
+.section2 {
+    border: 2px solid black;
+    padding: 20px;
+    width: 50%;
+    background-color: rgba(58, 128, 240, 0.3);
+    display: inline-block;
+    text-align: left;
+}
+
+.button {
+    border:none;
+    color:white;
+    background-color: aqua;
+    padding: 20px;
+    font-size: 16px;
+    border-radius: 2px;
+    transition-duration: 0.4s;
+    cursor:pointer;
+}
+
+.button1:hover {
+    background-color: rgb(60, 195, 195);
+    color:white;
+}
+
+table, th,td {
+    border: 1px solid;
+}
+
+th {
+    font-weight: 300;
+}
+
+table {
+    width: 50%;
+}
+
+.media {
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(199, 242, 242);
+}
+
+.photo {
+    padding: 20px;
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right:auto;
+}
